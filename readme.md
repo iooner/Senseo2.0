@@ -8,4 +8,4 @@ Si on se rencontre un jour et que vous pensez que ce truc vaut le coup, vous pou
 Keyeux Loïc
 
 
-Hack matériel 1/2 : http://www.iooner.me/votre-senseo-un-objet-connecte-13/
+Hack matériel 1/2 : http://old.iooner.me/votre-senseo-un-objet-connecte-13/
